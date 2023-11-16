@@ -3,7 +3,7 @@
 /**
 *监听键盘输入的类
 */
-export class KeyboardInput {
+class KeyboardInput {
     constructor(listening: boolean = false) {
         if (listening) this.startListening();
     }
@@ -92,3 +92,5 @@ export class KeyboardInput {
     }
 
 }
+
+export {KeyboardInput}
