@@ -1,8 +1,8 @@
 {
   "name": "z-keyboard-input",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "用来监听键盘组合键输入",
-  "auth":"webFighter",
+  "auth": "webFighter",
   "main": "index.js",
   "scripts": {
     "build": "tsc",
@@ -14,7 +14,11 @@
     "type": "git",
     "url": "git+https://github.com/WebFighter/z-keyboard-input.git"
   },
-  "keywords": ["keyboard","input","combination"],
+  "keywords": [
+    "keyboard",
+    "input",
+    "combination"
+  ],
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/WebFighter/z-keyboard-input/issues"
