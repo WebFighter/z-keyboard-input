@@ -20,9 +20,6 @@
     "input",
     "combination"
   ],
-  "files": [
-    "lib/**/*"
-  ],
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/WebFighter/z-keyboard-input/issues"
