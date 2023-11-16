@@ -1,6 +1,6 @@
 {
   "name": "z-keyboard-input",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "用来监听键盘组合键输入",
   "auth": "webFighter",
   "main": "lib/index.js",
